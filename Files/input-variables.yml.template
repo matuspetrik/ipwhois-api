@@ -1,0 +1,4 @@
+bearer: 123456789abcde
+input_file: Files/one-ip-per-line.txt
+output_file: /tmp/output.txt
+output_file_csv: /tmp/output.csv
